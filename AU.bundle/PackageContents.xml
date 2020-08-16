@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ApplicationPackage SchemaVersion="1.0" ProductType="Application" Name="AU" AppVersion="2019.1.1.1" Description="Introduction to C#" Author="Autodesk" ProductCode="{E0443791-950B-4492-A4F7-7AEE709B7E94}" UpgradeCode="{5D2D1FBE-83E8-4B72-95E4-A3A2BE0957FC}">
+  <CompanyDetails Name="Autodesk University" Phone="+1 (123) 345-6789" Url="http://www.au.autodesk.com" Email="joshua.modglin@inmotioncon.com" />
+  <Components>
+    <RuntimeRequirements OS="Win64" SeriesMin="R23.0" SeriesMax="R23.0"></RuntimeRequirements>
+    <ComponentEntry AppName="AU" ModuleName="AU.dll" AppDescription="AU Solutions" LoadOnAutoCADStartup="True"></ComponentEntry>
+  </Components>
+</ApplicationPackage>

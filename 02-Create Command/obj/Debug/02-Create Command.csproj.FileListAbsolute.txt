@@ -1,0 +1,6 @@
+C:\Users\minso\OneDrive\Desktop\Exercise Files\02-Create Command\bin\Debug\AU.dll
+C:\Users\minso\OneDrive\Desktop\Exercise Files\02-Create Command\bin\Debug\AU.pdb
+C:\Users\minso\OneDrive\Desktop\Exercise Files\02-Create Command\obj\Debug\02-Create Command.csprojAssemblyReference.cache
+C:\Users\minso\OneDrive\Desktop\Exercise Files\02-Create Command\obj\Debug\02-Create Command.csproj.CoreCompileInputs.cache
+C:\Users\minso\OneDrive\Desktop\Exercise Files\02-Create Command\obj\Debug\AU.dll
+C:\Users\minso\OneDrive\Desktop\Exercise Files\02-Create Command\obj\Debug\AU.pdb

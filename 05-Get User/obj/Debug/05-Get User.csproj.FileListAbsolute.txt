@@ -1,0 +1,6 @@
+D:\InMotion\Google Drive\Events\2018\AU\C# Net\Exercise Files\05-Get User\bin\Debug\AU.dll
+D:\InMotion\Google Drive\Events\2018\AU\C# Net\Exercise Files\05-Get User\bin\Debug\AU.pdb
+D:\InMotion\Google Drive\Events\2018\AU\C# Net\Exercise Files\05-Get User\obj\Debug\05-Get User.csprojAssemblyReference.cache
+D:\InMotion\Google Drive\Events\2018\AU\C# Net\Exercise Files\05-Get User\obj\Debug\05-Get User.csproj.CoreCompileInputs.cache
+D:\InMotion\Google Drive\Events\2018\AU\C# Net\Exercise Files\05-Get User\obj\Debug\AU.dll
+D:\InMotion\Google Drive\Events\2018\AU\C# Net\Exercise Files\05-Get User\obj\Debug\AU.pdb
