@@ -25,9 +25,12 @@ namespace AU.MySoftware
             BlockTableRecord msBlkRec = trans.GetObject(blkTbl[BlockTableRecord.ModelSpace], OpenMode.ForWrite) as BlockTableRecord;
 
             Point3d pnt1 = new Point3d(0, 0, 0);
-            Point3d pnt2 = new Point3d(10, 10, 10);
+            Point3d pnt2 = new Point3d(10, 10, 0);
 
-
+            Line lineObj = new Line(pnt1, pnt2);
+            msBlkRec.AppendEntity(lineObj);
+            trans.AddNewlyCreatedDBObject(lineObj, true);
+            trans.Commit();
         }
 
         #endregion

@@ -9,3 +9,9 @@ C:\Users\JoshuaModglin\Desktop\Exercise Files\04-Create Line\bin\Debug\AU.pdb
 C:\Users\JoshuaModglin\Desktop\Exercise Files\04-Create Line\obj\Debug\04-Create Line.csproj.CoreCompileInputs.cache
 C:\Users\JoshuaModglin\Desktop\Exercise Files\04-Create Line\obj\Debug\AU.dll
 C:\Users\JoshuaModglin\Desktop\Exercise Files\04-Create Line\obj\Debug\AU.pdb
+C:\Users\minso\OneDrive\Desktop\Exercise Files\04-Create Line\bin\Debug\AU.dll
+C:\Users\minso\OneDrive\Desktop\Exercise Files\04-Create Line\bin\Debug\AU.pdb
+C:\Users\minso\OneDrive\Desktop\Exercise Files\04-Create Line\obj\Debug\04-Create Line.csprojAssemblyReference.cache
+C:\Users\minso\OneDrive\Desktop\Exercise Files\04-Create Line\obj\Debug\04-Create Line.csproj.CoreCompileInputs.cache
+C:\Users\minso\OneDrive\Desktop\Exercise Files\04-Create Line\obj\Debug\AU.dll
+C:\Users\minso\OneDrive\Desktop\Exercise Files\04-Create Line\obj\Debug\AU.pdb
